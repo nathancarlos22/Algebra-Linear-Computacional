@@ -1,2 +1,2 @@
-# cods-ALC
-Alguns scripts de teoremas, exercícios feitos na cadeira de Álgebra Linear Computacional
+# Algebra Linear Computacional
+Alguns scripts (em OCTAVE), teoremas, exercícios feitos na disciplina de Álgebra Linear Computacional.
