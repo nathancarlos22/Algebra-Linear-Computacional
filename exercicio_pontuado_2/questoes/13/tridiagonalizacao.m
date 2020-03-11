@@ -1,7 +1,6 @@
 function T = tridiagonalizacao (A)
   T = A;
-  [m n] = size(A);
-  n = max(size(A))
+  n = size(A);
   
   for i = 2:n-1
     x = T(i:n, i-1);
